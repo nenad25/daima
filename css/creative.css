@@ -533,11 +533,6 @@ body {
     width:70%;
   }
 }
-@media only screen and (max-width: 1900px){
-  #aparatdole{
-    width: 100%;
-  }
-}
 .nazad {
   margin-bottom: 15%;
 }
@@ -567,5 +562,10 @@ footer #tel{
 @media (orientation: portrait) {
   #aparatdole{
     display: none;
+  }
+}
+@media (orientation: landscape) {
+  #aparatdole{
+    width: 100%;
   }
 }
