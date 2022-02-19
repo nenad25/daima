@@ -532,6 +532,8 @@ body {
   #prikvis{
     width:70%;
   }
+}
+@media only screen and (max-width: 1280px){
   #aparatdole{
     width: 100%;
   }
