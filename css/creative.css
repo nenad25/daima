@@ -563,8 +563,11 @@ footer #tel{
   #aparatdole{
     display: none;
   }
+  iframe{
+    height: 25vh;
+  }
 }
 iframe{
   width: 100%;
-  height: 25vh;
+  height: 60vh;
 }
