@@ -532,6 +532,9 @@ body {
   #prikvis{
     width:70%;
   }
+  #aparatdole{
+    width: 100%;
+  }
 }
 .nazad {
   margin-bottom: 15%;
