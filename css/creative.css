@@ -559,3 +559,8 @@ footer #tel{
 #aparatdole{
   width: 20%;
 }
+@media (orientation: portrait) {
+  #aparatdole{
+    display: none;
+  }
+}
